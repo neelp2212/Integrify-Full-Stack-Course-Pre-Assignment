@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { propTypes } from 'prop-types';
+import  propTypes  from 'prop-types';
 
 import styles from './Form.module.css';
 
