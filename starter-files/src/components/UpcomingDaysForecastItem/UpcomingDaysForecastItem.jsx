@@ -15,7 +15,7 @@ const UpcomingDaysForecastItem = ({ weekday, temperature, imgUrl }) => (
 
 UpcomingDaysForecastItem.propTypes = {
     weekday: PropTypes.string.isRequired,
-    temperature: PropTypes.string.isRequired,
+    temperature: PropTypes.number.isRequired,
     imgUrl: PropTypes.string.isRequired,
 };
 

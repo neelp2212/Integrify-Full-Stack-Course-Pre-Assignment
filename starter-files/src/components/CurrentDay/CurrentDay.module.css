@@ -25,7 +25,7 @@
     height: 100%;
     top: 0;
     left: 0;
-    background-image: url('./assets/mountain.jpg');
+    background-image: url('./assets/m2.jpg');
     background-size: cover;
     border-radius: var(--main-border-radius);
 }

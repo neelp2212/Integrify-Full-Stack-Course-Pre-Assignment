@@ -7,8 +7,8 @@
     border: none;
     border-radius: var(--main-border-radius);
     padding: 0.65rem;
-    background-image: var(--gradient);
-    color: var(--main-text-color);
+    background-image: var(blue);
+    color: var(grey);
     font-weight: 700;
     box-shadow: 0 0 30px -5px rgba(0, 0, 0, 0.25);
     cursor: pointer;
@@ -18,7 +18,7 @@
 }
 
 .button:hover {
-    color: var(--main-text-color);
+    color: var(white);
     -webkit-transform: scale(0.95);
     -ms-transform: scale(0.95);
     transform: scale(0.95);
